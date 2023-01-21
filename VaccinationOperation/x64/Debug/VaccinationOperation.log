@@ -1,0 +1,17 @@
+﻿  Address.cpp
+  Appointment.cpp
+  Clinic.cpp
+  Date.cpp
+  main.cpp
+  MedicalWorker.cpp
+  Person.cpp
+  PrivateClinic.cpp
+  VaccinationOperation.cpp
+  Vaccinee.cpp
+  VaccineeWorker.cpp
+  Generating Code...
+C:\Users\dmitr\Desktop\Vaccination_Operation-master\VaccinationOperation\VaccinationOperation.cpp(306): warning C4715: 'VaccinationOperation::cancelAppointment': not all control paths return a value
+C:\Users\dmitr\Desktop\Vaccination_Operation-master\VaccinationOperation\main.cpp(286): warning C4715: 'initClinic': not all control paths return a value
+C:\Users\dmitr\Desktop\Vaccination_Operation-master\VaccinationOperation\Clinic.cpp(249): warning C4715: 'Clinic::removeMedicalWorker': not all control paths return a value
+C:\Users\dmitr\Desktop\Vaccination_Operation-master\VaccinationOperation\Clinic.cpp(233): warning C4715: 'Clinic::removeAppointment': not all control paths return a value
+  VaccinationOperation.vcxproj -> C:\Users\dmitr\Desktop\Vaccination_Operation-master\x64\Debug\VaccinationOperation.exe
